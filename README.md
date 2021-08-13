@@ -1,0 +1,2 @@
+# CollectionViewWithCode
+Тренировка создания CollectionView.
